@@ -9,3 +9,8 @@ Ultimately it's a timesaver and not much more. Think of it as the lazy hacker to
 forms suck and you deserve to just a little less angry. You deserve it man, treat yourself.                    
 
 Docs forthcoming, maybe. I've software to cuss at and code to break.
+
+## Support
+
+If you found this repo useful please consider supporting me on [Gittip](https://www.gittip.com/k2052) or sending me some
+bitcoin `1csGsaDCFLRPPqugYjX93PEzaStuqXVMu`
